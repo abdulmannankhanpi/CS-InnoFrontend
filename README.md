@@ -25,7 +25,7 @@ Here're some of the project's best features:
 <p>1. Clone the Repository</p>
 
 ```
-git clone https://github.com/Abdulmannankhann/Abdul-InnoFront-CS
+git clone https://github.com/abdulmannankhanpi/CS-InnoFrontend.git
 ```
 
 <p>2. Install Dependencies</p>
